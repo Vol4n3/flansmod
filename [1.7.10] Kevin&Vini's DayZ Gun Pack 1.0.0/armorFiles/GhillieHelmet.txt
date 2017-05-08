@@ -1,0 +1,8 @@
+Name Ghillie Helmet
+ShortName GhillieHelmetdayz
+Icon GhillieHelmeticon
+Colour 255 255 255
+Type Hat
+Defence 0.0
+ArmourTexture GhillieHeaddayz
+Model dayz.GhillieHead

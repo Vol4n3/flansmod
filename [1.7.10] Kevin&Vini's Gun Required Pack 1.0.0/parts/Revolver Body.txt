@@ -1,0 +1,13 @@
+Name Revolver Body
+ShortName svzRevolverBody
+Icon RevolverBodyicon
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe P svzPlastic S svzShortBarrel I ingotIron
+SII
+I I
+  P

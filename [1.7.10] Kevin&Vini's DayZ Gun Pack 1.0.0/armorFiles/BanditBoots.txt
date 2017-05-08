@@ -1,0 +1,8 @@
+Name Bandit Boots
+ShortName BanditBootsdayz
+Icon BanditBootsicon
+Colour 255 255 255
+Type Boots
+Defence 0.0
+ArmourTexture BanditBootdayz
+Model dayz.HeroBoot

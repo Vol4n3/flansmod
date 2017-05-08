@@ -1,0 +1,8 @@
+Name Ghillie Boots
+ShortName GhillieBootsdayz
+Icon GhillieBootsicon
+Colour 255 255 255
+Type Boots
+Defence 0.0
+ArmourTexture GhillieBootdayz
+Model dayz.HeroBoot

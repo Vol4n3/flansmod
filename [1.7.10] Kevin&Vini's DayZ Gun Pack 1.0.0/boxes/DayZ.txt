@@ -1,0 +1,94 @@
+Name DayZ Weapons Box
+ShortName dayz
+TopTexture DayZBoxTop
+SideTexture DayZBoxSide
+BottomTexture DayZBoxBottom
+Recipe R rottenFlesh S svzBoxFrame
+RRR
+RSR
+RRR
+//AddGun shortName amountOf item
+//AddAmmo must come immediately after AddGun for them to be in the same slot
+//The names of the items / blocks are those in the code, with some exceptions such as iron (ingotIron) and gunpowder (sulphur)
+//And with parts from this mod, they are the shortName of the item
+//Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
+//NumGuns must come before all the addGun lines and must be correct.
+NumGuns 51
+AddGun M9dayz 1 svzPistolBarrel 1 svzPistolMechanism 1 svzPistolSlide
+AddAmmo 10x9Ammo 1 svzEmptyMag 2 ingotIron
+AddGun M1911dayz 1 svzPistolBarrel 1 svzPistolMechanism 1 svzPistolSlide
+AddAmmo 8x45Ammo 1 svzEmptyMag 2 ingotIron
+AddGun M1911Tacdayz 1 svzPistolBarrel 1 svzPistolMechanism 1 svzPistolSlide
+AddAmmo 8x45Ammo 1 svzEmptyMag 2 ingotIron
+AddGun Makarovdayz 1 svzPistolBarrel 1 svzPistolMechanism 1 svzPistolSlide
+AddAmmo 10x9Ammo 1 svzEmptyMag 2 ingotIron
+AddGun Pythondayz 1 svzRevolverBody 1 svzRevolverCilinder
+AddAmmo 357Bullet 1 svzBulletCasing 1 ingotIron
+AddGun Magnum500dayz 1 svzRevolverBody 1 svzRevolverCilinder
+AddAmmo 500Bullet 1 svzBulletCasing 1 ingotIron
+AddGun AK74Udayz 1 svzShortBarrel 1 svzSMGGunBody 1 svzPlasticStock
+AddAmmo 30x762Ammo 1 svzEmptyMag 2 ingotIron
+AddGun MP5dayz 1 svzShortBarrel 1 svzSMGGunBody 1 svzPlasticStock
+AddAmmo 30x9Ammo 1 svzEmptyMag 2 ingotIron
+AddGun AK74Mdayz 1 svzMediumBarrel 1 svzARWGunBody 1 svzWoodStock
+AddAmmo 30x45MAmmo 1 svzEmptyMag 5 ingotIron
+AddGun AKMdayz 1 svzMediumBarrel 1 svzARWGunBody 1 svzWoodStock
+AddAmmo 30x762Ammo 1 svzEmptyMag 5 ingotIron
+AddGun L85A2dayz 1 svzMediumBarrel 1 svzBullpupGunBody 1 svzPlasticStock
+AddAmmo 30x556Ammo 1 svzEmptyMag 5 ingotIron
+AddGun M4A1dayz 1 svzMediumBarrel 1 svzARGunBody 1 svzPlasticStock
+AddAmmo 30x556Ammo 1 svzEmptyMag 5 ingotIron
+AddGun M16A4dayz 1 svzMediumBarrel 1 svzARGunBody 1 svzPlasticStock
+AddAmmo 30x556Ammo 1 svzEmptyMag 5 ingotIron
+AddGun M249SAWdayz 1 svzMediumBarrel 1 svzLMGBody 1 svzPlasticStock
+AddAmmo 100x556Ammo 1 svzEmptyMag 20 ingotIron
+AddGun IZH43dayz 2 svzMediumBarrel 1 svzShotgunMechanism 1 svzWoodStock
+AddAmmo 12GRound 4 goldNugget 1 svzBulletCasing
+AddGun IZH43Shortdayz 2 svzShortBarrel 1 svzShotgunMechanism
+AddAmmo 12GRound 4 goldNugget 1 svzBulletCasing
+AddGun Remington870dayz 1 svzMediumBarrel 1 svzShotgunBody 1 svzWoodStock
+AddAmmo 12GRound 4 goldNugget 1 svzBulletCasing
+AddGun M14dayz 1 svzLongBarrel 1 svzDMRGunBody 1 svzPlasticStock
+AddAmmo 20x762x51Ammo 1 svzEmptyMag 10 ingotIron
+AddGun M14DMRdayz 1 svzLongBarrel 1 svzDMRGunBody 1 svzPlasticStock
+AddAmmo 20x762x51Ammo 1 svzEmptyMag 10 ingotIron
+AddGun Mk11mdwp 1 svzLongBarrel 1 svzDMRGunBody 1 svzPlasticStock
+AddAmmo 20x762x51Ammo 1 svzEmptyMag 10 ingotIron
+AddGun SKSdayz 1 svzLongBarrel 1 svzDMRGunBody 1 svzPlasticStock
+AddAmmo 10x762x39Ammo 1 svzBulletCasing 2 ingotIron
+AddGun SVDdayz 1 svzLongBarrel 1 svzDMRGunBody 1 svzPlasticStock
+AddAmmo 10x762Ammo 1 svzEmptyMag 10 ingotIron
+AddGun Win22dayz 1 svzLongBarrel 1 svzDMRGunBody 1 svzPlasticStock
+AddAmmo 22Bullet 1 svzBulletCasing 1 ingotIron
+AddGun M24dayz 1 svzLongBarrel 1 svzSRGunBody 1 svzPlasticStock
+AddAmmo 5x762CAmmo 1 svzEmptyMag 10 ingotIron
+AddGun Mosindayz 1 svzLongBarrel 1 svzSRWGunBody 1 svzPlasticStock
+AddAmmo 762Bullet 1 svzBulletCasing 2 ingotIron
+AddGun Remington700dayz 1 svzLongBarrel 1 svzSRWGunBody 1 svzPlasticStock
+AddAmmo 762Bullet 1 svzBulletCasing 2 ingotIron
+AddGun Remington700LTRdayz 1 svzLongBarrel 1 svzSRGunBody 1 svzPlasticStock
+AddAmmo 762Bullet 1 svzBulletCasing 2 ingotIron
+AddGun Crossbow410dayz 1 svzSRGunBody 1 bow 3 ingotIron
+AddAmmo CrossbowAmmo 1 arrow 1 svzPlastic
+AddGun svzAcog 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzAimPoint 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzAngledGrip 1 ingotIron 1 svzPlastic
+AddGun svzBipod 2 ingotIron 2 svzPlastic
+AddGun svzFlashLight 1 thinGlass 1 lightgem 1 svzPlastic
+AddGun svzForegrip 1 ingotIron 1 svzPlastic
+AddGun svzHeavyBarrel 2 ingotIron 1 svzPlastic
+AddGun svzHolosight 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzKobrasight 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzMicroAimPoint 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzMiniReflex 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzMOEStock 2 ingotIron 2 svzPlastic
+AddGun svzNoStock 1 ingotIron
+AddGun svzPRSStock 2 ingotIron 2 svzPlastic
+AddGun svz4xPSO1Scope 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svz7xPSO1Scope 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzPUScope 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzReflexsight 1 ingotIron 1 svzPlastic 1 thinGlass
+AddGun svzSilencer 1 ingotIron 1 svzPlastic 3 cloth
+AddGun svzSkeletonStock 2 ingotIron 2 svzPlastic
+AddGun svz8xScope 1 ingotIron 1 svzPlastic 2 thinGlass
+AddGun svz12xScope 1 ingotIron 1 svzPlastic 2 thinGlass

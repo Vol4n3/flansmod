@@ -1,0 +1,166 @@
+{
+	"590Reloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:590Reloadsvz" ]
+	},
+
+	"870Reloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:870Reloadsvz" ]
+	},
+	
+	"870Shootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:870Shootsvz" ]
+	},
+	
+	"AKReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:AKReloadsvz" ]
+	},
+	
+	"AKShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:AKShootsvz" ]
+	},
+			
+	"ASValShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ASValShootsvz" ]
+	},
+	
+	"BARReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BARReloadsvz" ]
+	},
+			
+	"ColtShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ColtShootsvz" ]
+	},
+				
+	"ColtReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ColtReloadsvz" ]
+	},
+				
+	"CrossbowShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:CrossbowShootsvz" ]
+	},
+				
+	"DBSreloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:DBSreloadsvz" ]
+	},
+					
+	"DeagleShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:DeagleShootsvz" ]
+	},
+	
+	"DoubleReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:DoubleReloadsvz" ]
+	},
+					
+	"IZH43Shootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:IZH43Shootsvz" ]
+	},
+					
+	"M4Reloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M4Reloadsvz" ]
+	},
+			
+	"M4Shootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M4Shootsvz" ]
+	},
+				
+	"M40A5Reloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M40A5Reloadsvz" ]
+	},
+					
+	"M40A5Shootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M40A5Shootsvz" ]
+	},
+						
+	"M249Reloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M249Reloadsvz" ]
+	},
+						
+	"M249Shootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M249Shootsvz" ]
+	},
+					
+	"MagnumReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MagnumReloadsvz" ]
+	},
+			
+	"MagnumShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MagnumShootsvz" ]
+	},
+				
+	"MakarovShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MakarovShootsvz" ]
+	},
+						
+	"MosinReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MosinReloadsvz" ]
+	},
+				
+	"MosinShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MosinShootsvz" ]
+	},
+				
+	"MP5Shootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MP5Shootsvz" ]
+	},
+
+	"MP44Reloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MP44Reloadsvz" ]
+	},
+	
+	"RPKReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RPKReloadsvz" ]
+	},
+		
+	"ScarHShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ScarHShootsvz" ]
+	},
+		
+	"SKSReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SKSReloadsvz" ]
+	},
+			
+	"SKSShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SKSShootsvz" ]
+	},
+					
+	"SniperShootsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SniperShootsvz" ]
+	},
+
+	"SpringfieldReloadsvz": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SpringfieldReloadsvz" ]
+	}
+}

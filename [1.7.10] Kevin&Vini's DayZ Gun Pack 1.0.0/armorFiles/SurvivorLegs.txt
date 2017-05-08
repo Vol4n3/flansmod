@@ -1,0 +1,8 @@
+Name Survivor Trousers
+ShortName SurvivorPantsdayz
+Icon SurvivorPantsicon
+Colour 255 255 255
+Type Legs
+Defence 0.0
+ArmourTexture SurvivorLegdayz
+Model dayz.HeroLeg

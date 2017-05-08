@@ -1,0 +1,8 @@
+Name Ghillie Bodyarmour
+ShortName GhillieBodydayz
+Icon GhillieBodyicon
+Colour 255 255 255
+Type Chest
+Defence 0.2
+ArmourTexture GhillieBodydayz
+Model dayz.GhillieBody

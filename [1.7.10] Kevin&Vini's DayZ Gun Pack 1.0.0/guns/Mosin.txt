@@ -1,0 +1,40 @@
+Name Mosin 9130
+ShortName Mosindayz
+//The ammo this gun uses (shortName)
+Ammo 762Bullet
+Icon Mosinicon
+//For guns in which the magazine is integrated
+LoadIntoGun 5
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 81
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 20
+//Damage in half hearts
+Damage 22
+//The higher this value, the more the bullets spread
+Accuracy 1
+//Time in ticks between rounds
+ShootDelay 40
+ShootSound MosinShootsvz
+ReloadSound MosinReloadsvz
+Mode SemiAuto
+//Default Scope Settings
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+//Deployable Settings
+Deployable False
+DeployedModel None
+//Model Settings
+Model dayz.Mosin
+Texture Mosindayz
+//Attachment Settings
+AllowAllAttachments false
+//List here all the attachments allowed on this gun by shortName and separated by spaces
+AllowAttachments flanMWSilencer flanMWRedDot flanMWACOG svz8xScope svzForegrip svzSilencer svzBipod svzAcog svzPUScope
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments false
+AllowGripAttachments true
+NumGenericAttachmentSlots 2

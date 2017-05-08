@@ -1,0 +1,14 @@
+Name Diamond Coin
+ShortName DiamondCoin
+Icon ZDiamondCoinicon
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 14004
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 64
+RecipeOutput 4
+Recipe 2 GoldCoin D diamond
+ 2 
+2D2
+ 2 

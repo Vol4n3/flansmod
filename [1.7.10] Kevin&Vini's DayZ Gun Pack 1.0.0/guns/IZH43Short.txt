@@ -1,0 +1,43 @@
+Name IZH-43 Sawn Off .12 
+ShortName IZH43Shortdayz
+//The ammo this gun uses (shortName)
+Ammo 12GRound
+Icon IZH43Shorticon
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 35
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 50
+//Number of bullet entities to create, useful for shotguns, defaults to 1
+NumBullets 5
+//Damage in half hearts
+Damage 8
+//For guns in which the magazine is integrated
+LoadIntoGun 2
+//The higher this value, the more the bullets spread
+Accuracy 18
+//Time in ticks between rounds
+ShootDelay 15
+ShootSound IZH43Shootsvz
+ReloadSound DoubleReloadsvz
+Mode SemiAuto
+//Default scope settings. Usually for aiming down sights. In which case, use FOVZoomLevel, not ZoomLevel
+Scope None
+FOVZoomLevel 1.25
+//Deployable Settings
+Deployable False
+DeployedModel None
+//Model settings
+Model dayz.IZH43Short
+Texture IZH43dayz
+ModelScale 1.4
+//Attachment Settings
+AllowAllAttachments false
+//List here all the attachments allowed on this gun by shortName and separated by spaces
+AllowAttachments flanMWRedDot flanMWACOG svzHolosight svz8xScope svz12xScope svzAcog svzAimPoint svzKobrasight svzReflexsight
+AllowBarrelAttachments false
+AllowScopeAttachments true
+AllowStockAttachments false
+AllowGripAttachments false
+NumGenericAttachmentSlots 2

@@ -1,0 +1,86 @@
+{
+	"AAfire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:AAfire" ]
+	},
+
+	"BARReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BARReload" ]
+	},
+
+	"bazookaReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:bazookaReload" ]
+	},
+
+	"bomb": {
+		"category" : "player",
+		"sounds" : [ "flansmod:bomb" ]
+	},
+
+	"bullet": {
+		"category" : "player",
+		"sounds" : [ "flansmod:bullet" ]
+	},
+
+	"Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Engine" ]
+	},
+
+	"gatling": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gatling" ]
+	},
+
+	"helo": {
+		"category" : "player",
+		"sounds" : [ "flansmod:helo" ]
+	},
+
+	"LancasterProp": {
+		"category" : "player",
+		"sounds" : [ "flansmod:LancasterProp" ]
+	},
+
+	"lkw_lauf": {
+		"category" : "player",
+		"sounds" : [ "flansmod:lkw_lauf" ]
+	},
+
+	"lkw_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:lkw_start" ]
+	},
+
+	"PlaneShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:PlaneShoot" ]
+	},
+
+	"propSound": {
+		"category" : "player",
+		"sounds" : [ "flansmod:propSound" ]
+	},
+
+	"propStart": {
+		"category" : "player",
+		"sounds" : [ "flansmod:propStart" ]
+	},
+
+	"RPGShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RPGShoot" ]
+	},
+
+	"TankShell": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TankShell" ]
+	},
+
+	"viper": {
+		"category" : "player",
+		"sounds" : [ "flansmod:viper" ]
+	}
+}

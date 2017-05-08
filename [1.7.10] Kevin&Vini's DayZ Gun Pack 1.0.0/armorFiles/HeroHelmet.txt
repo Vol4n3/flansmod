@@ -1,0 +1,8 @@
+Name Hero Helmet
+ShortName HeroHelmetdayz
+Icon HeroHelmeticon
+Colour 255 255 255
+Type Hat
+Defence 0.0
+ArmourTexture HeroHeaddayz
+Model dayz.HeroHead

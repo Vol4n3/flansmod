@@ -1,0 +1,8 @@
+Name Hero Bodyarmour
+ShortName HeroBodydayz
+Icon HeroBodyicon
+Colour 255 255 255
+Type Chest
+Defence 0.3
+ArmourTexture HeroBodydayz
+Model dayz.HeroBody

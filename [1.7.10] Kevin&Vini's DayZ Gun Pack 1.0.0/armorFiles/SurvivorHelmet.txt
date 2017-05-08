@@ -1,0 +1,8 @@
+Name Survivor Helmet
+ShortName SurvivorHelmetdayz
+Icon SurvivorHelmeticon
+Colour 255 255 255
+Type Hat
+Defence 0.0
+ArmourTexture SurvivorHeaddayz
+Model dayz.HeroHead

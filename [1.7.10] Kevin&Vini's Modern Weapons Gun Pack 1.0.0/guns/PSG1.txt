@@ -1,0 +1,40 @@
+Name PSG-1
+ShortName PSG1mdwp
+//The ammo this gun uses (shortName)
+Ammo 10x762Ammo
+Icon PSG1icon
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 40
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 20
+//Damage in half hearts
+Damage 20
+//The higher this value, the more the bullets spread
+Accuracy 1
+//Time in ticks between rounds
+ShootDelay 8
+ShootSound SniperShootsvz
+ReloadSound BARReloadsvz
+Mode SemiAuto
+//Default Scope Settings
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.0
+//Deployable Settings
+Deployable False
+DeployedModel None
+//Model Settings
+ModelScale 1.25
+Model mdwp.PSG1
+Texture PSG1mdwp
+//Attachment Settings
+AllowAllAttachments false
+//List here all the attachments allowed on this gun by shortName and separated by spaces
+AllowAttachments flanMWSilencer flanMWRedDot flanMWACOG flanMWForegrip svzForegrip svz8xScope svz20xScope svzSilencer svzHolosight svz8xScope svz12xScope svzAcog svzAimPoint svzKobrasight svzReflexsight svzBipod svzAngledGrip 
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments false
+AllowGripAttachments true
+NumGenericAttachmentSlots 2

@@ -1,0 +1,107 @@
+// ------------------------------------------------------ Naming ------------------------------------------------------
+Name Uss nimitz cvn68
+ShortName ussnimitz
+ItemID 7464
+// ------------------------------------------------------ Visuals ------------------------------------------------------
+Icon usnavy
+Model Titascorpack_v4.USSNIMITZ
+Texture nimitz68
+//Third Person Camera Distance
+CameraDistance 50.0
+// ------------------------------------------------------ Movement ------------------------------------------------------
+//Throttle
+MaxThrottle 0.5
+MaxNegativeThrottle 0.5
+//Steering modifiers
+TurnLeftSpeed 1.0
+TurnRightSpeed 1.0
+Drag 10.0
+//For calculating whether wheels are on the ground or not for driving
+WheelRadius 1.0
+//Wheel positions for collision handling. Tanks still have 4 wheels, they are just the corner ones.
+WheelPosition 0 -302 -4 -48
+WheelPosition 1 -302 -4 48
+WheelPosition 2 300 -4 48
+WheelPosition 3 300 -4 -48
+WheelSpringStrength 0.5
+//If true, then all wheels will apply drive forces
+FourWheelDrive false
+RotateWheels true
+// ------------------------------------------------------ Weaponry ------------------------------------------------------
+//Weapon types. Options are Missile, Bomb, Gun, Shell, None
+Primary Shell
+Secondary Gun
+//Time between shots in 1/20ths of seconds
+ShootDelayPrimary 20
+ShootDelaySecondary 2
+//Whether to alternate or fire all together
+AlternatePrimary True
+AlternateSecondary False
+//Firing modes. One of SemiAuto, FullAuto or Minigun
+ModePrimary FullAuto
+ModeSecondary FullAuto
+//Add shoot origins. These are the points on your vehicle from which bullets / missiles / shells / bombs appear
+ShootPointPrimary -200 20 0 turret
+ShootPointSecondary 50 35 0 turret lightFlak
+ShootPointSecondary -150 25 0 turret lightFlak
+// ------------------------------------------------------ Inventory ------------------------------------------------------
+CargoSlots 0
+BombSlots 0
+MissileSlots 4
+AllowAllAmmo False
+AddAmmo DepthCharge
+//Fuel Tank Size (1 point of fuel will keep one propeller going with throttle at 1 for 1 tick)
+FuelTankSize 2000
+// ------------------------------------------------------ Passengers ------------------------------------------------------
+Driver -111 228 258
+Passengers 3
+Passenger 1 -351 226 260 core
+Passenger 2 -961 45 78 core
+Passenger 3 -780 104 -86 core
+// ------------------------------------------------------- Sounds -------------------------------------------------------
+StartSound EngineStart
+StartSoundLength 24
+EngineSound CruiserEngine
+EngineSoundLength 29
+ShootSoundPrimary Shell
+ShootSoundSecondary NavyFlak
+//Recipe
+//Each section of the plane may have many parts
+//The sections are tailWheel, tail, bay, topWing, leftWingWheel, leftWing, rightWingWheel,
+//rightWing, nose, turret, coreWheel, core
+AddRecipeParts core 30 FleetFuel 90 FleetAmmo 60 FleetSteel 30 FleetAluminum
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+AddDye 32 gray
+//Health and collision
+SetupPart core 220 -49 -4 -17 92 14 34
+BulletDetection 20
+ModelScale 3.5
+Description American aircraft carrier
+Boat True
+PlaceableOnLand False
+PlaceableOnWater True
+FloatOnWater True
+WheelStepHeight 0
+Buoyancy 0.08
+SetupPart Hitbox 1 100 -980 106 -296 1000 13 328
+SetupPart Hitbox 2 100 16 106 -203 989 13 175
+SetupPart Hitbox 3 100 -645 106 -373 907 13 175
+SetupPart Hitbox 4 100 -799 106 -329 564 13 175
+SetupPart Hitbox 5 100 -647 106 -34 920 13 213
+SetupPart Hitbox 6 100 -25 106 162 267 13 54
+SetupPart Hitbox 7 100 260 106 -43 738 13 79
+SetupPart Hitbox 8 100 259 106 -44 83 13 146
+SetupPart Hitbox 9 100 259 106 -373 82 13 179
+SetupPart Hitbox 10 100 345 106 -285 216 13 180
+
+AddRecipeParts Hitbox 1 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 2 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 3 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 4 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 5 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 6 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 7 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 8 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 9 5 Your 5 Part 5 ShortNames
+AddRecipeParts Hitbox 10 5 Your 5 Part 5 ShortNames
+

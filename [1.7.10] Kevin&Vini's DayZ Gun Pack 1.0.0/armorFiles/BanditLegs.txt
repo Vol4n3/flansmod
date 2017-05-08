@@ -1,0 +1,8 @@
+Name Bandit Trousers
+ShortName BanditPantsdayz
+Icon BanditPantsicon
+Colour 255 255 255
+Type Legs
+Defence 0.0
+ArmourTexture BanditLegdayz
+Model dayz.HeroLeg

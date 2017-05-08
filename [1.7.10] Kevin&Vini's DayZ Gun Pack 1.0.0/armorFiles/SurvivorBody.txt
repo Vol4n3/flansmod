@@ -1,0 +1,8 @@
+Name Survivor Bodyarmour
+ShortName SurvivorBodydayz
+Icon SurvivorBodyicon
+Colour 255 255 255
+Type Chest
+Defence 0.3
+ArmourTexture SurvivorBodydayz
+Model dayz.HeroBody

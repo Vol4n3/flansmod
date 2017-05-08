@@ -1,0 +1,40 @@
+Name Barnett Ghost 410 Crossbow
+ShortName Crossbow410dayz
+//The ammo this gun uses (shortName)
+Ammo CrossbowAmmo
+Icon Crossbow410icon
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 40
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 2
+//Damage in half hearts
+Damage 7
+//The higher this value, the more the bullets spread
+Accuracy 5
+//Time in ticks between rounds
+ShootDelay 2
+ShootSound CrossbowShootsvz
+ReloadSound MP44Reloadsvz
+Mode SemiAuto
+//Default scope settings. Usually for aiming down sights. In which case, use FOVZoomLevel, not ZoomLevel
+Scope mwbarrett
+ZoomLevel 6.0
+FOVZoomLevel 1.0
+//Deployable Settings
+Deployable False
+DeployedModel None
+//Model settings
+ModelScale 1.3
+Model dayz.Crossbow410
+Texture Crossbow410dayz
+//Attachment Settings
+AllowAllAttachments false
+//List here all the attachments allowed on this gun by shortName and separated by spaces
+AllowAttachments flanMWSilencer flanMWRedDot flanMWACOG svzHolosight svz8xScope svz12xScope svzAcog svzAimPoint svzKobrasight svzReflexsight 
+AllowBarrelAttachments false
+AllowScopeAttachments true
+AllowStockAttachments false
+AllowGripAttachments false
+NumGenericAttachmentSlots 1

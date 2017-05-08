@@ -1,0 +1,8 @@
+Name Bandit Helmet
+ShortName BanditHelmetdayz
+Icon BanditHelmeticon
+Colour 255 255 255
+Type Hat
+Defence 0.0
+ArmourTexture BanditHeaddayz
+Model dayz.BanditHead
