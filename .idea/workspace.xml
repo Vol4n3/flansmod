@@ -1,7 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe083d12-d333-48f7-abef-3fb2fd4e4af9" name="Default" comment="" />
+    <list default="true" id="fe083d12-d333-48f7-abef-3fb2fd4e4af9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Greylight by DerpiWolf-Content Pack-1.7.10-4.10.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Manus Civil Package 4.0-Content Pack-1.7.10-4.10.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Manus DayZ Package 4.0-Content Pack-1.7.10-4.10.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mecha Parts-Content Pack-1.7.10-4.8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Minecraft SMP Parts Package 4.0-Content Pack-1.7.10-4.10.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pokers Garage V.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple Parts-Content Pack-1.7.10-4.10.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titascorpack_v4.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[1.7.10] Kevin&amp;Vini's DayZ Gun Pack 1.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[1.7.10] Kevin&amp;Vini's Gun Required Pack 1.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[1.7.10] Kevin&amp;Vini's Modern Weapons Gun Pack 1.0.0.jar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/lang/de_DE.lang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/lang/en_US.lang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/lang/ru_RU.lang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/skins/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/AAfire.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/Engine.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/Flak.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/TankShell.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/bomb.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/bullet.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/bulletHit.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/propSound.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/sounds/propStart.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/AABarrel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/AAShell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/AdvancedMetalCockpit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/AdvancedTankBody.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/BigBomb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/BiplaneWing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/Blowtorch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/Bomb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/BombBay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/Bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/CatTrack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/DenseRedstoneCoil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/EnginePiston.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/FuelCan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/HelicopterBlade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/HelicopterSkid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/LargeElectricEngine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/LargeWheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/LightningEngine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/Machinegun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalCockpit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalNose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalPropeller.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalTail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalWingMG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalWingProp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalWingSection.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/MetalWingSmall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/Napalm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/PassengerBay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/RedstoneCoil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/RotaryEngine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/SmallCarChassis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/SmallElectricEngine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/SmallWheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/TankBarrel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/TankBody.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/TankShell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/TankTurret.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/Towbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/TrackPiece.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/TriplaneWing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/V4Engine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/V6Engine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/V8Engine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/VehicleSeat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/WoodenCockpit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/WoodenPropeller.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/WoodenTail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/assets/flansmod/textures/items/WoodenWing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/bullets/LargeBomb.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/bullets/Napalm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/bullets/Shell.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/bullets/SmallBomb.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/pack.mcmeta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/AABarrel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/AdvancedMetalCockpit.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/AdvancedTankBody.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/BiplaneWing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/BombBay.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/CatTrack.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/CatTrackPiece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/DenseRedstoneCoil.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/FuelCan.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/HelicopterBlade.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/HelicopterSkid.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/LargeElectricEngine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/LargeWheel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/LightningEngine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/MetalCockpit.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/MetalNose.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/MetalPropeller.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/MetalTail.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/MetalWingSection.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/MetalWingSmall.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/PassengerBay.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/Piston.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/RedstoneCoil.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/RotaryEngine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/Seat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/SmallCarChassis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/SmallElectricEngine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/SmallWheel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/TankBarrel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/TankBody.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/TankTurret.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/TriplaneWing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/V4Engine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/V6Engine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/V8Engine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/WoodenCockpit.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/WoodenPropeller.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/WoodenTail.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/parts/WoodenWing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Parts Pack/tools/BlowTorch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Utility Pack/assets/flansmod/lang/en_US.lang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Utility Pack/assets/flansmod/lang/ru_RU.lang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Utility Pack/assets/flansmod/skins/TunnelBore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Utility Pack/assets/flansmod/textures/items/TunnelBore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Utility Pack/vehicles/TunnelBore.txt" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +180,9 @@
       <dir>C:\Users\vol4n3\Documents\devweb\flan</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,10 +198,12 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="942" />
-    <option name="height" value="1087" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1873" />
+    <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -122,6 +253,69 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -132,23 +326,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494260454375</updated>
-      <workItem from="1494260455690" duration="158000" />
+      <workItem from="1494260455690" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158000" />
+    <option name="totallyTimeSpent" value="823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="942" height="1087" extended-state="0" />
+    <frame x="-8" y="-8" width="1873" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494331" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12134583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
